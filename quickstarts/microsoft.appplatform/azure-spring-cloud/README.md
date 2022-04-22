@@ -1,4 +1,4 @@
-# Deploy a simple Azure Spring Cloud microservice application
+# Deploy a simple Spring Boot app
 
 ![Azure Public Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/quickstarts/microsoft.appplatform/azure-spring-cloud/PublicLastTestDate.svg)
 ![Azure Public Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/quickstarts/microsoft.appplatform/azure-spring-cloud/PublicDeployment.svg)
@@ -14,4 +14,4 @@
 
 This template deploys a simple Azure Spring Cloud microservice application to run on Azure. You'll see that there are two deployments in the template: The first deployment provisions resources, but traffic is not yet routed to the apps; the second deployment sets the apps to _active_.
 
-`Tags: Azure Spring Cloud, Spring Boot, microservice, application`
+`Tags: Azure Spring Apps, Spring Boot, microservice, application`
